@@ -1,0 +1,5 @@
+{
+  "name": "Travel Fare Calculator",
+  "description": "A travel fare calculator for Indonesian routes that provides cost estimations for travel using OpenStreetMap for routing, with features like vehicle presets and turn-by-turn directions.",
+  "requestFramePermissions": []
+}
